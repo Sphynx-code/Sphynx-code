@@ -29,9 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sphynx-code&show_icons=true&locale=en" alt="sphynx-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sphynx-code&" alt="sphynx-code" /></p>
-
-
-<!---
-Sphynx-code/Sphynx-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
