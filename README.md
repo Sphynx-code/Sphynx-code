@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sphynx-code](https://github.com/Sphynx-code)
 
-- 💬 Ask me about **javascript,bootstrap,html,css**
+- 💬 Ask me about **javascript,bootstrap,html,css,JQuery**
 
 - 📫 How to reach me **proanimelover26@gmail.com**
 
