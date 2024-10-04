@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **In GitHub, the term "Git" is a slang term from Britain that means "unpleasant person." The name Git was chosen by Git developer Linus Torvalds as a lighthearted dig at himself! GitHub has evolved from a platform supporting millions of collaborative projects globally to a lighthearted self-deprecation. 🌍🚀**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
