@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad AbdurRehman</h1>
-<h3 align="center">A passionate front end developer From Pakistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sphynx-code&label=Profile%20views&color=0e75b6&style=flat" alt="sphynx-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sphynx-code" alt="sphynx-code" /></a> </p>
 
-- 🌱 I’m currently learning **APi,s and Databases**
+- 🌱 I’m currently learning **DevOps and Python**
 
 - 💬 Ask me about **javascript and node with express js**
 
